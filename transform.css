@@ -1,0 +1,15 @@
+.container .inner {
+    width: 200px;
+    height: 150px;
+    border: 2px solid khaki;
+}
+
+.container {
+    background-color: lightblue;
+    text-align: center;
+}
+
+.inner {
+    background-color: lightcoral;
+    transform: scale(0.5);
+}
